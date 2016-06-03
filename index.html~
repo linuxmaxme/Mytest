@@ -36,7 +36,7 @@
                     <div id="logo" class="region vertical-target region-logo col-xs-12 col-sm-4 col-md-3 col-lg-3" data-vertical-offset="0">
                         <div class="branding">
                             <h1 class="site-title"><a class="home-link" href="index.html" title="Gabby" rel="home">Gestion Comercio</a>
-                            </h1>
+	                        </h1>
                             <p class="site-description">
                                 <a class="home-link" href="index.html" title="Gabby" rel="home">Soluciones en gestión</a>
                             </p>
@@ -50,8 +50,6 @@
                                     </li>
                                     <li class="menu-item menu-item-has-children"><a title="Bootstrap" href="servicios.html">Servicios</a>
                                     </li>
-                                    <li class="menu-item menu-item-has-children"><a title="Bootstrap" href="funcionalidades.html">Funcionalidades</a>
-                                    </li>
                                     <li class="menu-item menu-item-has-children"><a title="Bootstrap" href="versiones.html">Versiones</a>
                                     </li>
                                 </ul>
@@ -64,73 +62,76 @@
             </canvas>
         </header>
 
+        <div id="maincontent" class="nopadding">
+            <div class="area gb_area clearfix bg_2 about-us-first-row background-image-parallax">
+                <div class="masking">
+                    <div class="container-fluid">
+                        <div class="wrapper">
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-7 col-md-7 col-lg-7">
+                                    <div class="space_21 element-wrapper clearfix">
+                                        <div class="gabby_text_column gabby_content_element headline-title text-uppercase space_11">
+                                            <div class="wrapper">
+                                                <p>Su solución comercial</p>
+                                            </div>
+                                        </div>
+                                        <div class="gabby_text_column gabby_content_element headline-subtitle text-black">
+                                            <div class="wrapper">
 
-        <div id="maincontent" class="area large clearfix equalheightRow">
-            <div class="container-fluid">
-                <div class="row">
-                    <div id="content" class="region items region-content col-xs-12 col-sm-9 col-md-9 col-lg-9">
-                        <article class="single clearfix page type-page">
-
-						<header>
-                                    <h1 class="post-title">   Gestion Comercio V 2.4.8</h1>
-                                </header>
-
-                                    <h3 style="color: #CA9F23">Novedades</h3>
-
-                                    <ul>
-                                        <li>Opciones-Configuraciones-Ventas: Opción de Habilitar o no impresión de comprobante al generar una venta. </li>
-                                        <li>Opciones-Configuraciones-Ventas: Opción de Administrar máximos por tipo de descuento.  </li>
-                                        <li>Reporte de Ganancias Por Ventas.  </li>
-                                        <li>Reporte de Stock Valorizado Por Categorías.  </li>
-                                        <li>Reporte de Gastos Por Tipo. </li>
-                                        <li>Nueva Ventana De administración de Numeradores en Archivo>General>Numeradores. </li>
-                                        <li>Nueva Ventana De administración de Marcas en Tablas>Marcas.</li>
-                                        <li>Nueva Ventana De administración de Logs en Seguridad>Logs de Sistema. </li>
-                                        <li>Nuevo Diseño de Ventana De Acerca de. En Ayuda>Acerca de… </li>
-                                        <li>Nuevo Filtro Para Limitar uso de Ventana Numeradores Archivo>General>Numeradores.</li>
-                                        <li>Nuevo Filtro Para Limitar uso de Ventana Logs Seguridad>Logs de Sistema.</li>
-                                        <li>Nuevo Filtro Para Limitar uso Numeradores manuales a grupo de usuarios. </li>
-                                        <li>Nuevo Filtro Para Gestión de Seguridad Ver movimientos de caja. </li>
-                                        <li>Nuevo Filtro Para Gestión de Seguridad Ver estado de caja en Caja>Ingreso de Caja.</li>
-										<li>Nuevo Filtro Para Gestión de Seguridad Ver quitar linea de punto de ventas.</li>
-                                        <li>Nuevos Iconos. </li>
-
-                                    </ul>
-                                    
-                                    <h3 style="color: #CA9F99">Bugs Resueltos</h3>
-
-                                    <ul>
-                                        <li>Visualización de Porcentaje Mayorista en Ventana Productos y Categorías al Crear nuevo sub-rubro. </li>
-                                        <li>Solución Movimiento aleatorio de cursor en Carga de números decimales.  </li>
-                                        <li>Solución cambio de posición de check en actualizar precio última compra. </li>
-										<li>Solución marcas similares en administracion de productos. </li>
-                                        <li>Solución en Compras carga mal de precio de ultima compra.  </li>
-                                        <li>Solución a Movimientos de caja con cta cte duplicados de cliente misma venta.  </li>
-                                        <li>Solución tipo de pago único en efectivo. </li>
-                                        <li>Solución Filtro descuentos al crear nueva venta. </li>
-                                        <li>Solución de pagos Combinados cta cte. </li>
-                                        <li>Solución de carga Proveedores repetidos. </li>
-                                        <li>Solución de Modificación parámetros de usuarios. </li>
-                                        <li>Solución Realización de venta si falla la impresión. </li>
-                                        <li>Solución Error Provider en punto de ventas. </li>
-                                        <li>Solución Posibilidad de modificar o eliminar usuario admin.</li>
-                                        <li>Solución Posibilidad de modificar o eliminar grupo Administradores.</li>
-                                        <li>Mejoras en el foco de Ventanas. </li>
-                                        <li>Mejoras en Actualización de precios de última compra (Precio de costo). </li>
-                                        <li>Filtro de botón de pagos en punto de venta. </li>
-                                        <li>Filtro en Ventas si usuario no tiene numeradores creados. </li>
-                                        <li>Filtro no se permiten 2 usuarios con códigos de comprobantes iguales. </li>
-
-                                    </ul>
-                                    
-                                    
+                                        </div>
+                                        <div class="gabby_text_column gabby_content_element text-extra-light text-large text-tight text-black">
+                                            <div class="wrapper">
+                                                <blockquote>​Es un sistema caracterizado por estar
+                                                    pensados para facilitar al usuario el manejo de su negocio, siendo sumamente
+                                                    amigable y orientado a cualquier usuario, sin necesidad de conocimientos extras de
+                                                    informatica.
+                                                </blockquote>
+                                            </div>
+                                        </div>
+                                        <button class="btn btn-primary gabby_regularsize">Ver <a href="servicios.html" style="color: #fffbfb;"><strong>más información</strong></a> →</button>
+                                    </div>
                                 </div>
+                            </div>
+                        </div>
                     </div>
-                        </article>
+                </div>
+            </div>
+            <div class="area gb_area clearfix bg_9 visual-three">
+                <div class="masking">
+                    <div class="container-fluid">
+	                    <div class="wrapper">
+	                        <div class="row">
+	                            <div class="gabby_animate_when_almost_visible gabby_appear space_33 element-wrapper clearfix">
+	                                <div class="text-center col-xs-12 col-sm-12 col-md-12 col-lg-12">
+	                                    <div class="gabby_text_column gabby_content_element text-extra-large text-uppercase text-bold">
+	                                    </div>
+	                                    <div class="gabby_content_element clearfix">
+	                                        <div class="ga_separator ga_el_width_50 ga_sep_color_turquoise"><span class="ga_sep_holder"><span class="ga_sep_line"></span></span>
+	                                        </div>
+	                                    </div>
+	                                    <div class="slick-carousel" data-settings="{&quot;accessibility&quot;:true,&quot;autoplay&quot;:true,&quot;autoplaySpeed&quot;:1000,&quot;arrows&quot;:true,&quot;dots&quot;:true,&quot;centerMode&quot;:true,&quot;centerPadding&quot;:&quot;50px&quot;,&quot;cssEase&quot;:&quot;ease&quot;,&quot;draggable&quot;:true,&quot;fade&quot;:false,&quot;easing&quot;:&quot;linear&quot;,&quot;infinite&quot;:true,&quot;lazyLoad&quot;:&quot;ondemand&quot;,&quot;pauseOnHover&quot;:true,&quot;slidesToShow&quot;:3,&quot;slidesToScroll&quot;:1,&quot;speed&quot;:200,&quot;swipe&quot;:true,&quot;touchMove&quot;:true,&quot;touchThreshold&quot;:5,&quot;vertical&quot;:false,&quot;variableWidth&quot;:false,&quot;adaptiveHeight&quot;:true}">
+                                            <div class="slick-items"><img src="assets/images/screen/logo.jpg" alt="assets/images/screen/1.jpg" width="600" height="342" /></div>
+                                            <div class="slick-items"><img src="assets/images/screen/1.jpg" alt="assets/images/screen/1.jpg" width="600" height="342" /></div>
+	                                        <div class="slick-items"><img src="assets/images/screen/2.jpg" alt="assets/images/screen/2.jpg" width="600" height="342" /></div>
+	                                        <div class="slick-items"><img src="assets/images/screen/3.jpg" alt="assets/images/screen/3.jpg" width="600" height="342" /></div>
+	                                        <div class="slick-items"><img src="assets/images/screen/4.jpg" alt="assets/images/screen/3.jpg" width="600" height="342" /></div>
+	                                        <div class="slick-items"><img src="assets/images/screen/5.jpg" alt="image-place-holder_small.jpg" width="600" height="342" /></div>
+	                                        <div class="slick-items"><img src="assets/images/screen/6.jpg" alt="image-place-holder_small.jpg" width="600" height="342" /></div>
+                                            <div class="slick-items"><img src="assets/images/screen/7.jpg" alt="image-place-holder_small.jpg" width="600" height="342" /></div>
+                                            <div class="slick-items"><img src="assets/images/screen/8.jpg" alt="image-place-holder_small.jpg" width="600" height="342" /></div>
+                                            <div class="slick-items"><img src="assets/images/screen/9.jpg" alt="image-place-holder_small.jpg" width="600" height="342" /></div>
+                                            <div class="slick-items"><img src="assets/images/screen/10.jpg" alt="image-place-holder_small.jpg" width="600" height="342" /></div>
+                                            <div class="slick-items"><img src="assets/images/screen/11.jpg" alt="image-place-holder_small.jpg" width="600" height="342" /></div>
+                                        </div>
+	                                </div>
+	                            </div>
+	                        </div>
+	                    </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
+
         <footer id="footer" class="area">
             <div id="footer-maps-wrapper" class="with-contact">
                 <div id="footermaps" data-mapkey="" data-address="London" data-apikeys="" data-center="" data-zoom="18" data-text="" data-description="" data-grayscale="1" data-masking="1" data-maskcolor="rgba(44, 52, 67, 0.8)"></div>
@@ -152,7 +153,9 @@
                                     </li>
                                     <li>
                                         <a target="_blank" href="https://www.facebook.com/gestioncomercio">
+					
                                             <div class="faplus clearfix fa"><span class="fa"><i class="fa fa-tumblr"></i></span></div>
+						
                                         </a>
                                     </li>
                                     <li>
@@ -164,7 +167,15 @@
                             <div class="menu">
                                 <ul id="menu-footer-menu" class="inline footer-menu">
                                     <li class="menu-item"><a title="Home" href="index.html">Consultas e Información: 3624-800849 <strong>Email:</strong> gestionesucomercio@gmail.com</a></li>
-                                </ul>
+									</div>
+						<div class="menu">
+							<ul id="menu-footer-menu" class="inline footer-menu">
+								<li class="menu-item">
+						<p align="center"><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/gestioncomercio" 
+						scrolling="no" frameborder="0" 
+						style=border:none;width:450px;height:66px></iframe></p>   
+						</li>                              
+</ul>
                             </div>
                         </nav>
                     </div>
