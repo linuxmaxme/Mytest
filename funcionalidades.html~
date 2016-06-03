@@ -58,6 +58,8 @@
                                     </li>
                                     <li class="menu-item menu-item-has-children"><a title="Bootstrap" href="servicios.html">Servicios</a>
                                     </li>
+                                    <li class="menu-item menu-item-has-children"><a title="Bootstrap" href="funcionalidades.html">Funcionalidades</a>
+                                    </li>
                                     <li class="menu-item menu-item-has-children"><a title="Bootstrap" href="versiones.html">Versiones</a>
                                     </li>
                                 </ul>
@@ -78,7 +80,7 @@
                         <article class="single clearfix page type-page">
 
 						<header>
-                                    <h1 class="post-title">   Lista de imagenes</h1>
+                                    <h1 class="post-title"> Galeria y Funcionalidades </h1>
                                 
 
                                 </header>
@@ -254,10 +256,7 @@
                 
                     <img src="/assets/images/200/0041.png" class="img-responsive" />
                 </li>
-                <li class="gridder-list" data-griddercontent="#gridder-content-42">                
                 
-                    <img src="/assets/images/200/0042.png" class="img-responsive" />
-                </li>
                 
             </ul>
 
@@ -713,7 +712,7 @@
                         <h2>Item 8</h2>
                         <p>Texto Descriptivo</p>
                         <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <p>parrafo 2</p>
                     </div>
                 </div>
             </div>
@@ -795,19 +794,7 @@
                     </div>
                 </div>
             </div>
-             <div id="gridder-content-42" class="gridder-content">
-                <div class="row">
-                    <div class="col-sm-6">
-                        <img src="/assets/images/800/0042.png" class="img-responsive" />
-                    </div>
-                    <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
-                    </div>
-                </div>
-            </div>
+           
  
        
         
