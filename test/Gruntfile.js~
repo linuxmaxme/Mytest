@@ -20,13 +20,13 @@ module.exports = function (grunt) {
                 banner: "<%= meta.banner %>"
             },
             dist: {
-                src: ["test/src/jquery.gridder.js"],
-                dest: "test/dist/js/jquery.gridder.js"
+                src: ["src/jquery.gridder.js"],
+                dest: "dist/js/jquery.gridder.js"
             }
         },
         // Lint definitions
         jshint: {
-            files: ["test/src/jquery.gridder.js"],
+            files: ["src/jquery.gridder.js"],
             options: {
                 jshintrc: ".jshintrc"
             }
@@ -34,8 +34,8 @@ module.exports = function (grunt) {
         // Minify definitions
         uglify: {
             my_target: {
-                src: ["test/dist/js/jquery.gridder.js"],
-                dest: "test/dist/js/jquery.gridder.min.js"
+                src: ["dist/js/jquery.gridder.js"],
+                dest: "dist/js/jquery.gridder.min.js"
             },
             options: {
                 banner: "<%= meta.banner %>"
@@ -45,7 +45,7 @@ module.exports = function (grunt) {
         coffee: {
             compile: {
                 files: {
-                    "test/dist/js/jquery.gridder.js": "src/jquery.gridder.coffee"
+                    "dist/js/jquery.gridder.js": "src/jquery.gridder.coffee"
                 }
             }
         },
@@ -56,8 +56,8 @@ module.exports = function (grunt) {
                     style: 'compressed'
                 },
                 files: {
-                    'test/dist/css/jquery.gridder.min.css': 'scss/jquery.gridder.scss',
-                    'test/demo/css/demo.css': 'demo/scss/demo.scss'
+                    'dist/css/jquery.gridder.min.css': 'scss/jquery.gridder.scss',
+                    'demo/css/demo.css': 'demo/scss/demo.scss'
                 }
             }
         },
@@ -65,7 +65,7 @@ module.exports = function (grunt) {
         // Better than calling grunt a million times
         // (call 'grunt watch')
         watch: {
-            files: ['test/src/*', 'test/scss/*', 'test/demo/scss/*'],
+            files: ['src/*', 'scss/*', 'demo/scss/*'],
             tasks: ['default']
         }
 
