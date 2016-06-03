@@ -374,10 +374,9 @@
                         <img src="/assets/images/800/0010.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Menú Archivo-Seguridad</h2>
+                        <p>Datos de usuarios, Restricciones de cada grupo de usuarios y logs de sistema</p>
+                       
                     </div>
                 </div>
             </div>
@@ -387,10 +386,9 @@
                         <img src="/assets/images/800/0011.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Menú Archivo-Backup</h2>
+                        <p>Administración de copias de seguridad de nuestra base de datos</p>
+                       
                     </div>
                 </div>
             </div>
@@ -400,10 +398,9 @@
                         <img src="/assets/images/800/0012.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Menú Ventas</h2>
+                        <p>Podemos ver todo lo relacionado a ventas y presupuestos</p>
+                        
                     </div>
                 </div>
             </div>
@@ -413,10 +410,9 @@
                         <img src="/assets/images/800/0013.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Menú Clientes</h2>
+                        <p>Administración de clientes y cuentas corrientes</p>
+                        
                     </div>
                 </div>
             </div>
@@ -426,10 +422,9 @@
                         <img src="/assets/images/800/0014.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Menú Productos</h2>
+                        <p>Administración y gestión de productos</p>
+                       
                     </div>
                 </div>
             </div>
@@ -439,10 +434,9 @@
                         <img src="/assets/images/800/0015.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Menú Productos-Stock</h2>
+                        <p>Lo importante de manejar de una manera simple y precisa nuestro Stock es algo que no dejamos al descubierto.</p>
+                        
                     </div>
                 </div>
             </div>
@@ -452,10 +446,9 @@
                         <img src="/assets/images/800/0016.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Menú Productos-Remitos</h2>
+                        <p>La administración de movimientos entre sucursales es una de las tantas características que le brinda Gestión Comercio</p>
+                        
                     </div>
                 </div>
             </div>
@@ -465,10 +458,9 @@
                         <img src="/assets/images/800/0017.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Menú Compras</h2>
+                        <p>Desde aqui se administran precios proveedores etc.</p>
+                        
                     </div>
                 </div>
             </div>
@@ -478,10 +470,12 @@
                         <img src="/assets/images/800/0018.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Menú Caja</h2>
+                        <p>Todo lo relacionado al movimiento de efectivo de las cajas</p>
+                        <p>Gestión Comercio le da la posibilidad de administrador de una manera muy eficiente el manejo de efectivo. Pudiendo 
+											Hacer retiros de dinero, ingresos o inclusive administrar el inicio de caja con  su respectivo cambio.
+                        </p>
+                       
                     </div>
                 </div>
             </div>
@@ -491,10 +485,12 @@
                         <img src="/assets/images/800/0019.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Menú Caja-Gastos</h2>
+                         <p>Administración de Gastos</p>
+                        <p>Debido a la importancia de un control preciso y ordenado. Tenemos a su alcance esta herramienta muy simple y precisa 
+                        			para llevar a cabo su cometido.
+                        </p>
+                        
                     </div>
                 </div>
             </div>
@@ -504,10 +500,10 @@
                         <img src="/assets/images/800/0020.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Menú Informes</h2>
+                        <p>En este apartado se pueden realizar los reportes estadísticos</p>
+                        <p>Con la opción de poder determinar rangos y fechas para la realización de cada reporte</p>
+                        <p>Verlo donde mas le convenga. Puede guardarlos en pdf o simplemente enviárselos por mail.</p>
                     </div>
                 </div>
             </div>
@@ -517,10 +513,10 @@
                         <img src="/assets/images/800/0021.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Menú Informes-Ventas</h2>
+                        <p>Sin duda aquí podemos analizar los reportes mas importante de nuestro negocio.</p>
+                        <p>Las estadísticas siempre son una herramienta fundamental para poder realizar la toma de decisiones</p>
+                        
                     </div>
                 </div>
             </div>
@@ -530,10 +526,10 @@
                         <img src="/assets/images/800/0022.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Menú Informes-Resultados</h2>
+                        <p>Reportes detallados de las ganancias</p>
+                        <p>Podemos ver un resumen de ganancias haciendo un balance general entre costos, ventas, compras y gastos.</p>
+                        <p>Con Ganancias por ventas solamente veríamos las ganancias obtenidas por la diferencia de costos de compra y los de venta.</p>
                     </div>
                 </div>
             </div>
@@ -543,10 +539,9 @@
                         <img src="/assets/images/800/0023.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Menú Informes-Stock</h2>
+                        <p>En un simple click podemos ver nuestro stock valorizado discriminado por categorías.</p>
+                      
                     </div>
                 </div>
             </div>
@@ -556,10 +551,9 @@
                         <img src="/assets/images/800/0024.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Menú Informes-Gastos</h2>
+                        <p>De una manera muy simple podemos obtener un resumen de gastos discriminados por tipo de gastos.</p>
+                        
                     </div>
                 </div>
             </div>
@@ -569,10 +563,12 @@
                         <img src="/assets/images/800/0025.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Logs de Sistema</h2>
+                        <p>Ventana para análisis de registros de sistema</p>
+                        <p>Los datos nunca están de mas a la hora de realizar una auditoría o monitoreo de sistema.</p>
+                        <p>Podemos elegir que clase de logs queremos revisar. Cada movimiento o acceso al sistema genera un log para poder analizarlo desde
+											esta ventana.                        
+                        </p>
                     </div>
                 </div>
             </div>
@@ -582,10 +578,13 @@
                         <img src="/assets/images/800/0026.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Administración de Grupos de Usuarios</h2>
+                        <p>Permisos de cada Grupo de Usuarios</p>
+                        <p>Una característica fundamental de Gestión Comercio es la organización y restricciones administradas a cada grupo de usuarios</p>
+                        <p>Desde este lugar se puede limitar el acceso a determinadas partes del Sistema o Ocultar funciones especificas de algunas ventanas.
+										  Brindado la Posibilidad de controlar los permisos de cada usuario. Una herramienta fundamental a la hora de garantizar seguridad
+										  en la gestión de nuestro comercio.                        
+                        </p>
                     </div>
                 </div>
             </div>
@@ -595,10 +594,10 @@
                         <img src="/assets/images/800/0027.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Backup de Base de Datos</h2>
+                        <p>Porque siempre vamos a poder resguardar nuestros datos</p>
+                        <p>Esta función es fundamental para garantizar nuestra seguridad a la hora de mantener a salvo nuestra información</p>
+                       
                     </div>
                 </div>
             </div>
@@ -608,10 +607,9 @@
                         <img src="/assets/images/800/0028.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Mensajes Simples e intuitivos</h2>
+                        <p>Siempre que realicemos acciones importantes el Sistema nos informara el éxito de las mismas</p>
+                        
                     </div>
                 </div>
             </div>
@@ -621,10 +619,10 @@
                         <img src="/assets/images/800/0029.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Planilla de Cliente</h2>
+                        <p>Porque podemos tener una ficha de cada uno de nuestros clientes</p>
+                        <p>En caso el modulo de Cuentas Corrientes esta característica se vuelve fundamental</p>
+                      
                     </div>
                 </div>
             </div>
@@ -634,10 +632,12 @@
                         <img src="/assets/images/800/0030.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Opciones</h2>
+                        <p>Gestión Comercio le brinda la posibilidad de gestionar a su gusto sus características</p>
+                        <p>Es primordial y necesario poder administrar nuestras propias exigencias. Desde aquí puede elegir a gusto y paladar una variedad
+											de configuraciones administrables para el óptimo funcionamiento de su aplicación.                       
+                        </p>
+                        
                     </div>
                 </div>
             </div>
@@ -647,10 +647,10 @@
                         <img src="/assets/images/800/0031.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Productos</h2>
+                        <p>Ventana de administración de Productos</p>
+                        <p>Ya sea por códigos de Barras o por Nombres. Aquí podemos realizar la búsqueda de productos, para su administración</p>
+                        
                     </div>
                 </div>
             </div>
@@ -660,10 +660,10 @@
                         <img src="/assets/images/800/0032.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Marcas</h2>
+                        <p>Ventana de administración de Productos por Marca</p>
+                        <p>Algo innovador es poder realizar administración de productos directamente trabajando con la marca del mismo</p>
+                       
                     </div>
                 </div>
             </div>
@@ -673,10 +673,10 @@
                         <img src="/assets/images/800/0033.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Ventana de Administración de Stock</h2>
+                        <p>LA administración del Stock es algo fundamental para nuestro control sobre el comercio</p>
+                        <p>De una manera muy simple y rápida se pueden hacer arreglos de stock o simplemente para controlar el mismo</p>
+                        <p>Podemos filtras las búsquedas por Stock mínimo, Stock 0 o Stock negativo.</p>
                     </div>
                 </div>
             </div>
@@ -686,10 +686,10 @@
                         <img src="/assets/images/800/0034.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo2</p>
+                        <h2>Ingresar Remito</h2>
+                        <p>Ventana de Administracion de Remitos</p>
+                        <p>Aquí podemos realizar Ingreso o egreso de productos desde o hacia otras Sucursales respectivamente. </p>
+                        
                     </div>
                 </div>
             </div>
@@ -699,10 +699,12 @@
                         <img src="/assets/images/800/0035.png" class="img-responsive" />
                     </div>
                     <div class="col-sm-6">
-                        <h2>Item 8</h2>
-                        <p>Texto Descriptivo</p>
-                        <p>parrafo1</p>
-                        <p>parrafo 2</p>
+                        <h2>Ingreso de Compra</h2>
+                        <p>Ventana para Ingresos de Compras</p>
+                        <p>Fundamental herramienta para registrar nuestras compras.</p>
+                        <p>Con cada compra generamos la actuliazacion del Stock correspondiente y actualizamos de manera automatica los precios 
+											de los productos afectados con la misma.                        
+                        </p>
                     </div>
                 </div>
             </div>
