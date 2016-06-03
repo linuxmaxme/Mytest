@@ -113,7 +113,16 @@
 	                                    </div>
 	                             <!-- aqui va el slide --> 
 	                             
-	                                    <div class="slick-carousel" data-settings="{&quot;accessibility&quot;:true,&quot;autoplay&quot;:true,&quot;autoplaySpeed&quot;:1000,&quot;arrows&quot;:true,&quot;dots&quot;:true,&quot;centerMode&quot;:true,&quot;centerPadding&quot;:&quot;50px&quot;,&quot;cssEase&quot;:&quot;ease&quot;,&quot;draggable&quot;:true,&quot;fade&quot;:false,&quot;easing&quot;:&quot;linear&quot;,&quot;infinite&quot;:true,&quot;lazyLoad&quot;:&quot;ondemand&quot;,&quot;pauseOnHover&quot;:true,&quot;slidesToShow&quot;:3,&quot;slidesToScroll&quot;:1,&quot;speed&quot;:200,&quot;swipe&quot;:true,&quot;touchMove&quot;:true,&quot;touchThreshold&quot;:5,&quot;vertical&quot;:false,&quot;variableWidth&quot;:false,&quot;adaptiveHeight&quot;:true}">
+	                                  
+	                                </div>
+	                            </div>
+	                        </div>
+	                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+  <div class="slick-carousel" data-settings="{&quot;accessibility&quot;:true,&quot;autoplay&quot;:true,&quot;autoplaySpeed&quot;:1000,&quot;arrows&quot;:true,&quot;dots&quot;:true,&quot;centerMode&quot;:true,&quot;centerPadding&quot;:&quot;50px&quot;,&quot;cssEase&quot;:&quot;ease&quot;,&quot;draggable&quot;:true,&quot;fade&quot;:false,&quot;easing&quot;:&quot;linear&quot;,&quot;infinite&quot;:true,&quot;lazyLoad&quot;:&quot;ondemand&quot;,&quot;pauseOnHover&quot;:true,&quot;slidesToShow&quot;:3,&quot;slidesToScroll&quot;:1,&quot;speed&quot;:200,&quot;swipe&quot;:true,&quot;touchMove&quot;:true,&quot;touchThreshold&quot;:5,&quot;vertical&quot;:false,&quot;variableWidth&quot;:false,&quot;adaptiveHeight&quot;:true}">
 
 	                             <ul class="gridder">
 
@@ -139,14 +148,8 @@
   											  <div id="content2" class="gridder-content"> Content goes here2... </div>
   												  <div id="content3" class="gridder-content"> Content goes here3... </div>
   												  </div>
-	                                </div>
-	                            </div>
-	                        </div>
-	                    </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
+
 
         <footer id="footer" class="area">
             <div id="footer-maps-wrapper" class="with-contact">
