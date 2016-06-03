@@ -138,7 +138,7 @@
    											     </li>
 
         
-      										  <li class="gridder-list" data-griddercontent="/content.html">
+      										  <li class="gridder-list" data-griddercontent="test/content.html">
          								   <img src="http://placehold.it/600x400" />
        										 </li>
 												    </ul>
