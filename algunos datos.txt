@@ -1,9 +1,0 @@
-      	<div class="menu">
-							<ul id="menu-footer-menu" class="inline footer-menu">
-								<li class="menu-item">
-						<p align="center"><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/gestioncomercio" 
-						scrolling="no" frameborder="0" 
-						style=border:none;width:450px;height:66px></iframe></p>   
-						</li>                              
-              </ul>
-                            </div>
