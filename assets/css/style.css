@@ -8648,7 +8648,7 @@ section.nosotros h2 {
 }
 section.tips p {
     font-size: 15px;
-    margin: 30px 0;
+    margin: 30px 25px 30px 25px;
 }
 
 
@@ -8663,7 +8663,7 @@ section.nosotros h1 {
 
 section.nosotros p {
     font-size: 20px;
-    margin: 30px 0;
+    margin: 30px 25px 30px 25px;
 }
 
 section {
