@@ -8639,38 +8639,80 @@ html.js .slick-initialized .slick-slide {
     color: #ffffff;
 }
 
-section.tips{
+section.white{
     background: #ffffff;
     color: black;
 }
-section.nosotros h2 {
-    color: black;
+
+section.white h1 {
+    margin: 0px 25px 0px 25px;
 }
-section.tips p {
+
+section.white p {
     font-size: 15px;
     margin: 30px 25px 30px 25px;
 }
 
 
-section.nosotros{
+section.green{
     background: #18bc9c;
     color: white;
 }
 
-section.nosotros h1 {
+section.green h1 {
+    color: white;
+    margin: 0px 25px 0px 25px;
+}
+section.green h2 {
+    color: white;
+}
+section.green p {
+    font-size: 20px;
+    margin: 30px 25px 30px 25px;
+}
+
+section.purple{
+    background: #584574;
     color: white;
 }
 
-section.nosotros p {
+section.purple h1 {
+    color: white;
+}
+section.purple p {
     font-size: 20px;
     margin: 30px 25px 30px 25px;
+}
+
+.modulosAdicionales h2{
+    color:#f3e6ff;
+     margin: 30px 25px 30px 25px;
+}
+
+section.despega p {
+    color: #ccffe6;
 }
 
 section {
     padding : 100px 0 100px;
 }
 
-
+.txtMorado
+{
+   color: #584574 !important;
+}
+.backGroundMorado
+{
+    background: #584574;
+}
+.margitBottom50
+{
+    margin-bottom: 50px;
+}
+.margitBottom100
+{
+    margin-bottom: 50px;
+}
 
 /*Footer*/
 footer .footer-above {
@@ -8696,3 +8738,4 @@ footer .footer-col {
 {
     color: #cccccc !important;
 }
+
